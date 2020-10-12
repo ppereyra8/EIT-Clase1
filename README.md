@@ -1,8 +1,10 @@
-#Documentacion
+# Documentacion
 
 Markdown 
 
-##Instacion 
+## Instacion 
+Explicacion 
 
-##Uso
+## Uso
+Explicacion
 
